@@ -1,2 +1,2 @@
 print("owo")
-print("T^T")
+print("T^T")    
